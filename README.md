@@ -14,7 +14,7 @@ art by @_mienar
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusgte&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgte&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusgte&show_icons=true&theme=tokyonight&card_width300px) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgte&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
